@@ -1,0 +1,13 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\MVCAuthor",
+    "\\MVCAuthor\\Controllers",
+    "\\MVCAuthor\\Models",
+    "\\MVCAuthor\\Views",
+    "\\MVCAuthor\\Views\\Home",
+    "\\MVCAuthor\\Views\\Shared"
+  ],
+  "SelectedNode": "\\MVCAuthor\\Controllers\\HomeController.cs",
+  "PreviewInSolutionExplorer": false
+}

@@ -1,0 +1,45 @@
+﻿
+@{
+    ViewData["Title"] = "Tabs";
+}
+
+<div>
+    <!--Tab buttons -->
+    <ul id="tabstrip" class=" nav nav-tabs" role="tablist">
+        <li class="active">
+            <a href ="#_FirstTab" role="tab" data-toggle="tab">Submission</a>
+        </li> <!--# is a selector - used to search and locate the html docs -->
+        
+      
+        <li>
+            <a href ="#_SecondTab" role="tab" data-toggle="tab">Search</a>
+        </li>
+  
+
+        <li>
+            <a href="#_ThirdTab" role="tab" data-toggle="tab">Comments</a>
+        </li>
+
+    </ul>
+
+<!--tab content containers-->
+<div class="tab-content">
+    <div class="tab-pane fade in action" id="_FirstTab"> 
+        <partial name ="Score" /> 
+    </div>
+        
+    <div class="tab-pane fade in action" id="_SecondTab"> 
+        <partial name ="ChildList" /> 
+    </div>
+       
+    <div class="tab-pane fade in action" id="_ThirdTab">
+        <partial name="Childviewdata" view-data="ViewData" />
+    </div>
+
+</div>
+</div>
+<partial name="Score" />
+<partial name="ChildList" />
+<partial name ="ChildViewdata" /> 
+
+

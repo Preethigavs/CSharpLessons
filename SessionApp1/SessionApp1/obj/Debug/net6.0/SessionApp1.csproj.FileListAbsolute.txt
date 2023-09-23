@@ -1,0 +1,14 @@
+C:\Users\preethi.srinivasan\source\repos\SessionApp1\SessionApp1\bin\Debug\net6.0\SessionApp1.exe
+C:\Users\preethi.srinivasan\source\repos\SessionApp1\SessionApp1\bin\Debug\net6.0\SessionApp1.deps.json
+C:\Users\preethi.srinivasan\source\repos\SessionApp1\SessionApp1\bin\Debug\net6.0\SessionApp1.runtimeconfig.json
+C:\Users\preethi.srinivasan\source\repos\SessionApp1\SessionApp1\bin\Debug\net6.0\SessionApp1.dll
+C:\Users\preethi.srinivasan\source\repos\SessionApp1\SessionApp1\bin\Debug\net6.0\SessionApp1.pdb
+C:\Users\preethi.srinivasan\source\repos\SessionApp1\SessionApp1\obj\Debug\net6.0\SessionApp1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\preethi.srinivasan\source\repos\SessionApp1\SessionApp1\obj\Debug\net6.0\SessionApp1.AssemblyInfoInputs.cache
+C:\Users\preethi.srinivasan\source\repos\SessionApp1\SessionApp1\obj\Debug\net6.0\SessionApp1.AssemblyInfo.cs
+C:\Users\preethi.srinivasan\source\repos\SessionApp1\SessionApp1\obj\Debug\net6.0\SessionApp1.csproj.CoreCompileInputs.cache
+C:\Users\preethi.srinivasan\source\repos\SessionApp1\SessionApp1\obj\Debug\net6.0\SessionApp1.dll
+C:\Users\preethi.srinivasan\source\repos\SessionApp1\SessionApp1\obj\Debug\net6.0\refint\SessionApp1.dll
+C:\Users\preethi.srinivasan\source\repos\SessionApp1\SessionApp1\obj\Debug\net6.0\SessionApp1.pdb
+C:\Users\preethi.srinivasan\source\repos\SessionApp1\SessionApp1\obj\Debug\net6.0\SessionApp1.genruntimeconfig.cache
+C:\Users\preethi.srinivasan\source\repos\SessionApp1\SessionApp1\obj\Debug\net6.0\ref\SessionApp1.dll
